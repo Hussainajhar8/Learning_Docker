@@ -13,7 +13,7 @@ docker build -t rng-app .
 This will create a Docker image with the name "rng-app".
 - Run the Docker image to create a container:
 docker run -it rng-app
-- This will start the container and run the rng.py script. The -it flag allows you to interact with the container's terminal.
+This will start the container and run the rng.py script. The -it flag allows you to interact with the container's terminal.
 - The script will prompt you to enter a minimum and maximum number. Enter the desired numbers and press Enter.
 The script will output a random number between the minimum and maximum numbers that you entered.
 
