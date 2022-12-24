@@ -5,7 +5,7 @@ This project is a simple Python script that generates a random number between a 
 ## Getting Started
 - To get started with this project, you will need to install Docker on your machine.
 
-**Installing** 
+## Installing 
 To install and run this project, follow these steps:
 
 - Build the Docker image for the application by running the following command in the terminal:
@@ -17,5 +17,5 @@ docker run -it rng-app
 - The script will prompt you to enter a minimum and maximum number. Enter the desired numbers and press Enter.
 The script will output a random number between the minimum and maximum numbers that you entered.
 
-**Built With**
+## Built With
 This project was built using Docker.
